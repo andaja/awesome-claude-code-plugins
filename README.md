@@ -204,6 +204,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Design UX
 - [brand-guardian](./plugins/brand-guardian)
+- [gentleface](https://github.com/andaja/gentleface-icons) - Icon MCP server and skill: find icons by meaning in a set of 4,035 MIT pixel-aligned icons and get them as SVG, React, SwiftUI or Compose code. `/plugin marketplace add andaja/gentleface-icons`
 - [joker](./plugins/joker)
 - [journey-mapper](./plugins/journey-mapper)
 - [mobile-ux-optimizer](./plugins/mobile-ux-optimizer)
